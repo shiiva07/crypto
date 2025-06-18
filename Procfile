@@ -1,1 +1,1 @@
-worker: python SHIVA_FINALBOT_FINAL_update.py
+start: python SHIVA_FINALBOT_FINAL_update.py
